@@ -1,0 +1,2 @@
+# mynote
+recording my study
